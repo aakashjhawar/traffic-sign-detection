@@ -10,7 +10,7 @@
 *.lib
 *.dylib
 mnist/
-data/
+data/dataset
 caffe/
 grasp/
 images/
@@ -55,3 +55,6 @@ include/darknet/
 uselib
 uselib_track
 darknet
+
+text.txt
+darknet53.conv.74
